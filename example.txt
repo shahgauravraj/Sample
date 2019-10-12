@@ -1,2 +1,2 @@
 This is an example for using git on windows. Stay tuned!
-I have just edited this file.
+I have just edited this file. I have recently edited this.
