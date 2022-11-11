@@ -1,2 +1,5 @@
 This is an example for using git on windows. Stay tuned!
 I have just edited this file. I have recently edited this.
+This line of text has been added through vscode.dev, which is simple vscode made to be open on your browser without having to download it.
+It is really a nice experience.
+And the best part is that you have all the extensions already accessible through the internet so you don't have to sweat about it.
